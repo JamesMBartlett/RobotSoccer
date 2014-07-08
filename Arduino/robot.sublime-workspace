@@ -1,0 +1,1018 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fiel",
+				"fieldheight  (variable)"
+			],
+			[
+				"filter",
+				"filterwithmove"
+			],
+			[
+				"sense",
+				"senseNoiseUltrasonic"
+			],
+			[
+				"field",
+				"fieldheight"
+			],
+			[
+				"addNoi",
+				"addNoiseToPose"
+			],
+			[
+				"log",
+				"logofnormpdf"
+			],
+			[
+				"fi",
+				"fieldheight  (variable)"
+			],
+			[
+				"fie",
+				"fieldwidth  (variable)"
+			],
+			[
+				"ran",
+				"random  (function)"
+			],
+			[
+				"assert",
+				"assertEqual"
+			],
+			[
+				"res",
+				"restofparticles"
+			],
+			[
+				"asser",
+				"assertEqual  (function)"
+			],
+			[
+				"add",
+				"addNoiseToPose"
+			],
+			[
+				"sen",
+				"senseNoiseUltrasonic"
+			],
+			[
+				"r",
+				"return"
+			],
+			[
+				"ang",
+				"angpos"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"the",
+				"theta1"
+			],
+			[
+				"The",
+				"theta1"
+			],
+			[
+				"one",
+				"onethird"
+			],
+			[
+				"moto",
+				"motorPWMs"
+			],
+			[
+				"motor",
+				"motorPWM2"
+			],
+			[
+				"calibrate",
+				"calibrateMotors"
+			],
+			[
+				"speed",
+				"speedpwmstruct"
+			],
+			[
+				"p",
+				"PWMArray"
+			],
+			[
+				"PWM",
+				"PWMArray"
+			],
+			[
+				"Speed",
+				"SpeedPWMStruct"
+			],
+			[
+				"Spe",
+				"SpeedArray"
+			],
+			[
+				"S",
+				"SpeedPWMStruct"
+			],
+			[
+				"test",
+				"testPWMLENGTH"
+			],
+			[
+				"Com",
+				"ComponentsFromVector"
+			],
+			[
+				"testP",
+				"testPWMLENGTH"
+			],
+			[
+				"click",
+				"clicksperrev"
+			],
+			[
+				"Motor",
+				"MotorControl"
+			],
+			[
+				"cl",
+				"clicksperrev"
+			],
+			[
+				"Mo",
+				"MotorControlClass"
+			],
+			[
+				"Mot",
+				"MotorControl"
+			],
+			[
+				"i",
+				"inc	#include \"…\""
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "robotmain/robotmain.ino",
+			"settings":
+			{
+				"buffer_size": 93,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "libraries/robotLibs/Calibration/Calibration.h",
+			"settings":
+			{
+				"buffer_size": 579,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "libraries/robotLibs/Calibration/Calibration.cpp",
+			"settings":
+			{
+				"buffer_size": 929,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "libraries/robotLibs/MotorControl/MotorControl.h",
+			"settings":
+			{
+				"buffer_size": 1223,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "libraries/robotLibs/MotorControl/MotorControl.cpp",
+			"settings":
+			{
+				"buffer_size": 2894,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "libraries/robotLibs/motormodel.py",
+			"settings":
+			{
+				"buffer_size": 4555,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/james/src/Robot/particlefilter.py",
+			"settings":
+			{
+				"buffer_size": 6774,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/james/src/Robot/TESTparticlefilter.py",
+			"settings":
+			{
+				"buffer_size": 6350,
+				"line_ending": "Unix",
+				"name": "import unittest"
+			}
+		},
+		{
+			"file": "libraries/robotLibs/MotorControl/SpeedPWMStruct.cpp",
+			"settings":
+			{
+				"buffer_size": 1140,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"git:",
+				"Git: Commit history"
+			],
+			[
+				"git:stat",
+				"Git: Status"
+			],
+			[
+				"git:comm",
+				"Git: Commit"
+			],
+			[
+				"git:add",
+				"Git: Add Current File"
+			],
+			[
+				"git",
+				"Git: Commit"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: li",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: e",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: d",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: lis",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: en",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: dis",
+				"Package Control: Disable Package"
+			]
+		],
+		"width": 536.0
+	},
+	"console":
+	{
+		"height": 120.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/james/Minecraft/FTB/BloodNBones/minecraft/config/InvTweaks.cfg",
+		"/home/james/Minecraft/Blood N Bones Server/config/HostileWorlds.cfg",
+		"/home/james/Minecraft/Blood N Bones Server/config/HardcoreEnderExpansion.cfg",
+		"/home/james/Minecraft/Blood N Bones Server/config/HostileWorldsBlocks.cfg",
+		"/home/james/Minecraft/Blood N Bones Server/config/AWWayofTime.cfg",
+		"/home/james/Minecraft/Blood N Bones Server/config/DeadlyWorld.cfg",
+		"/home/james/Minecraft/Blood N Bones Server/config/EnhancedPortals3.cfg",
+		"/home/james/Minecraft/Blood N Bones Server/config/ExtraUtilities.cfg",
+		"/home/james/Minecraft/Blood N Bones Server/config/Metallurgy3/MetallurgyFantasy.cfg",
+		"/home/james/Minecraft/Blood N Bones Server/config/Metallurgy3/MetallurgyPrecious.cfg",
+		"/home/james/src/Robot/robosimulator.py",
+		"/home/james/Minecraft/Blood N Bones Server/ServerStart.sh",
+		"/home/james/Minecraft/Blood N Bones Server/hs_err_pid2169.log",
+		"/home/james/Minecraft/FTB/Direwolf20_1_6_4/minecraft/config/hqm/hqmconfig.cfg",
+		"/home/james/Minecraft/Hardcore questing server/config/hqm/hqmconfig.cfg",
+		"/home/james/.config/sublime-text-2/Packages/Pylinter/Pylinter.sublime-settings",
+		"/home/james/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/james/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+		"/home/james/.config/sublime-text-2/Packages/User/Python.sublime-settings",
+		"/home/james/Minecraft/2.1.6/ServerStart.sh",
+		"/home/james/Minecraft/FTB/AgrarianSkiesHQ/minecraft/config/cofh/ThermalExpansion.cfg",
+		"/home/james/Minecraft/FTB/AgrarianSkiesHQ/minecraft/config/cofh/WorldCustomGen.txt",
+		"/home/james/Minecraft/2.1.4/config/powercrystals/netherores/common.cfg",
+		"/home/james/.cache/.fr-LmFPz1/mcmod.info",
+		"/home/james/.cache/.fr-4MltgD/mcmod.info",
+		"/home/james/Minecraft/2.1.4/hs_err_pid8858.log",
+		"/home/james/Minecraft/2.1.4/ServerStart.sh",
+		"/home/james/Minecraft/2.1.4/config/powercrystals/minefactoryreloaded/liquids.cfg",
+		"/home/james/Minecraft/2.1.4/config/powercrystals/minefactoryreloaded/common.cfg",
+		"/home/james/Minecraft/2.1.4/config/powercrystals/minefactoryreloaded/client.cfg",
+		"/home/james/Minecraft/2.1.4/config/crowley.skyblock.cfg",
+		"/home/james/Minecraft/2.1.4/config/BigReactors/BigReactors.cfg",
+		"/home/james/Minecraft/2.1.4/config/warpbook.cfg",
+		"/home/james/Minecraft/2.1.4/config/multipart.cfg",
+		"/home/james/Minecraft/2.1.4/config/jadedspawn.cfg",
+		"/home/james/Minecraft/2.1.4/config/InfernalMobs.cfg",
+		"/home/james/Minecraft/2.1.4/config/HungerOverhaul.cfg",
+		"/home/james/Minecraft/2.1.4/config/gendustry.cfg",
+		"/home/james/Minecraft/2.1.4/config/extracells.cfg",
+		"/home/james/Minecraft/2.1.4/config/customrecipes.cfg",
+		"/home/james/Minecraft/2.1.4/config/DeadlyWorld.cfg",
+		"/home/james/Minecraft/2.1.4/config/BiblioCraft.cfg",
+		"/home/james/Minecraft/2.1.4/config/minetweaker/Vanilla.cfg",
+		"/home/james/Minecraft/2.1.4/config/minetweaker/ThermalExpansion.cfg",
+		"/home/james/Minecraft/2.1.4/config/minetweaker/Skyblock.cfg",
+		"/home/james/Minecraft/2.1.4/config/minetweaker/OreDict.cfg",
+		"/home/james/Minecraft/2.1.4/config/minetweaker/MFR.cfg",
+		"/home/james/Minecraft/2.1.4/config/minetweaker/Mariculture.cfg",
+		"/home/james/Minecraft/2.1.4/config/minetweaker/main.cfg",
+		"/home/james/Minecraft/2.1.4/config/minetweaker/ExtraUtilities.cfg",
+		"/home/james/Minecraft/2.1.4/config/minetweaker/FluidCrafting.cfg",
+		"/home/james/Minecraft/2.1.4/config/minetweaker/ExNihilo.cfg",
+		"/home/james/Minecraft/2.1.4/config/minetweaker/BloodMagic.cfg",
+		"/home/james/Minecraft/2.1.4/config/minetweaker/AE.cfg",
+		"/home/james/Minecraft/2.1.4/config/minetweaker/Balance.cfg",
+		"/home/james/Minecraft/2.1.4/config/OpenBlocks.cfg",
+		"/home/james/Minecraft/2.1.4/config/Thaumcraft.cfg",
+		"/home/james/Minecraft/2.1.4/config/MagicBees.cfg",
+		"/home/james/Minecraft/2.1.4/config/SpecialMobs.cfg",
+		"/home/james/Minecraft/2.1.4/config/simplyjetpacks.cfg",
+		"/home/james/Minecraft/2.1.4/config/Backpack.cfg",
+		"/home/james/Minecraft/2.1.4/config/hqm/hqmconfig.cfg",
+		"/home/james/Minecraft/2.1.4/config/hqm/quests.hqm",
+		"/home/james/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/james/Minecraft/2.0.3/ServerStart.sh",
+		"/home/james/Minecraft/s/server.log",
+		"/home/james/Minecraft/s/ServerStart.sh",
+		"/home/james/Minecraft/s/config/hqm/hqmconfig.cfg",
+		"/home/james/Minecraft/Server/server.properties",
+		"/home/james/Minecraft/FTB/AgrarianSkiesHQ/minecraft/config/minetweaker/Balance.cfg",
+		"/home/james/Minecraft/Server/ServerStart.sh",
+		"/home/james/Minecraft/FTB/AgrarianSkiesHQ/minecraft/config/minetweaker/Skyblock.cfg",
+		"/home/james/Minecraft/FTB/AgrarianSkiesHQ/minecraft/config/NEI.cfg",
+		"/home/james/john-1.8.0/README",
+		"/home/james/john-1.8.0/run/mailer",
+		"/usr/include/tnt/tnt_version.h",
+		"/home/james/Arduino/libraries/gsl-1.16/INSTALL",
+		"/home/james/Arduino/libraries/gsl-1.16/README",
+		"/home/james/Arduino/libraries/robotLibs/TNT/tnt_array1d_utils.h",
+		"/home/james/Arduino/libraries/robotLibs/MotorControl/MotorControl.cpp",
+		"/home/james/Arduino/libraries/robotLibs/MotorControl/Motor.h",
+		"/home/james/Arduino/libraries/robotLibs/MotorControl/Motor.cpp",
+		"/home/james/Arduino/libraries/robotLibs/MotorControl/SpeedPWMStruct.cpp",
+		"/home/james/Arduino/libraries/robotLibs/MotorControl/SpeedPWMStruct.h",
+		"/home/james/Arduino/libraries/robotLibs/MathHelper/Vector.h",
+		"/home/james/Arduino/libraries/robotLibs/MathHelper/Vector.cpp",
+		"/home/james/Arduino/libraries/robotLibs/MathHelper/ComponentsFromVector.cpp",
+		"/home/james/Arduino/libraries/robotLibs/MathHelper/ComponentsFromVector.h",
+		"/home/james/Arduino/libraries/robotLibs/MotorControl/Encoder.cpp",
+		"/home/james/Arduino/libraries/robotLibs/MotorControl/Encoder.h",
+		"/home/james/Arduino/libraries/robotLibs/MathHelper/VectorMath.cpp",
+		"/home/james/Arduino/libraries/robotLibs/MathHelper/VectorMath.h",
+		"/home/james/Arduino/libraries/robotLibs/MotorControl/MotorControl.h",
+		"/home/james/Arduino/robotLibs/MotorControl/MotorControl.h",
+		"/home/james/Arduino/robotLibs/MathHelper/MathHelper.h",
+		"/home/james/Arduino/robotLibs/Calibration/Calibration.cpp",
+		"/home/james/Arduino/robotLibs/Calibration/Calibration.h",
+		"/home/james/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/james/Arduino/robot.sublime-project",
+		"/home/james/Arduino/robotlibs"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"id",
+			"sense",
+			"addNoise",
+			"plotscatter",
+			"set",
+			"safari"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "robotmain/robotmain.ino",
+					"settings":
+					{
+						"buffer_size": 93,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Arduino-like IDE/Arduino.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "libraries/robotLibs/Calibration/Calibration.h",
+					"settings":
+					{
+						"buffer_size": 579,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "libraries/robotLibs/Calibration/Calibration.cpp",
+					"settings":
+					{
+						"buffer_size": 929,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "libraries/robotLibs/MotorControl/MotorControl.h",
+					"settings":
+					{
+						"buffer_size": 1223,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "libraries/robotLibs/MotorControl/MotorControl.cpp",
+					"settings":
+					{
+						"buffer_size": 2894,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "libraries/robotLibs/motormodel.py",
+					"settings":
+					{
+						"buffer_size": 4555,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4066,
+								4066
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/home/james/src/Robot/particlefilter.py",
+					"settings":
+					{
+						"buffer_size": 6774,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								347,
+								347
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2907.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/home/james/src/Robot/TESTparticlefilter.py",
+					"settings":
+					{
+						"buffer_size": 6350,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1674,
+								1674
+							]
+						],
+						"settings":
+						{
+							"auto_name": "import unittest",
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3411.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "libraries/robotLibs/MotorControl/SpeedPWMStruct.cpp",
+					"settings":
+					{
+						"buffer_size": 1140,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.Calibration":
+	{
+		"height": 124.0
+	},
+	"output.MathHelper":
+	{
+		"height": 130.0
+	},
+	"output.MotorControl":
+	{
+		"height": 130.0
+	},
+	"output.exec":
+	{
+		"height": 120.0
+	},
+	"output.git":
+	{
+		"height": 124.0
+	},
+	"output.robotmain":
+	{
+		"height": 130.0
+	},
+	"output.stino_log":
+	{
+		"height": 124.0
+	},
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 155.0,
+	"status_bar_visible": true
+}

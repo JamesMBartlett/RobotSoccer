@@ -119,12 +119,11 @@ class Ball:
 
 	def senseInfrared(self):
 		pass
-		#### this is the hard bit
 
 	def prob_measurement(self, measurement):
 		sense = self.senseInfrared()
 		return np.sum(np.array([Utils.logofnormpdf(measurement[i], sense[i], self.measurenoise) for i in range(16)]))
-
+		
 
 
 	def setPose(self, x, y, velox, veloy):

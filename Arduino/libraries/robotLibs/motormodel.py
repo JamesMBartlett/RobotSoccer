@@ -148,16 +148,16 @@ def TESTVtoUwithoutomega(theta1, theta2, theta3, r1x, r1y, r2x, r2y, r3x, r3y, n
 	return ret
 
 
-# def simulate(theta1, theta2, theta3, r1x, r1y, r2x, r2y, r3x, r3y, Vx, Vy, omega, iterations):
-# 	U, R = VtoU(theta1, theta2, theta3, r1x, r1y, r2x, r2y, r3x, r3y, Vx, Vy, omega)
-# 	increment = 0.001
-# 	dist1to2 = math.sqrt((r2x - r1x)**2 + (r2y-r1y)**2)
-# 	dist1to3 = math.sqrt((r3x - r1x)**2 + (r3y-r1y)**2)
-# 	dist2to3 = math.sqrt((r2x - r3x)**2 + (r2y-r3y)**2)
-# 	current_origin = (0,0)
-# 	U =[U[0][0],U[1][0],U[2][0]]
+def simulate(theta1, theta2, theta3, r1x, r1y, r2x, r2y, r3x, r3y, Vx, Vy, omega, iterations):
+	U, R = VtoU(theta1, theta2, theta3, r1x, r1y, r2x, r2y, r3x, r3y, Vx, Vy, omega)
+	increment = 0.001
+	dist1to2 = math.sqrt((r2x - r1x)**2 + (r2y-r1y)**2)
+	dist1to3 = math.sqrt((r3x - r1x)**2 + (r3y-r1y)**2)
+	dist2to3 = math.sqrt((r2x - r3x)**2 + (r2y-r3y)**2)
+	current_origin = (0,0)
+	U =[U[0][0],U[1][0],U[2][0]]
 	
-# 	for i in range(iterations):
+	for i in range(iterations):
 		
 
 

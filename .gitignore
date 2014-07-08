@@ -1,3 +1,7 @@
-Arduino/
+Arduino/arduino-1.0.5
+Arduino/hardware
+Arduino/robotmain/TNT
+Arduino/libraries/robotLibs/Eigen
 __pycache__/
 robosimulator.py
+.gitignore~
